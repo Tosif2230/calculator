@@ -1,2 +1,2 @@
 # calculator
-Basic calculator app using Python
+Tip calculator app using Python
